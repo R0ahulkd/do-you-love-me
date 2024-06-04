@@ -2,7 +2,7 @@
 
 //click yes btn
 function clickYesButton() {
-    alert('I love you too <3');
+    alert('I love you too meri Ishu<3');
 }
 
 //move button on hover
